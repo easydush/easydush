@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-`Ко жели да тражи могућности, ко не жели-изговори ☝` - @igprya
+`Ко жели да тражи могућности, ко не жели-изговори ☝` - — [@igprya](https://github.com/igprya)
